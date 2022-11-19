@@ -1,0 +1,178 @@
+.start .wrapper
+{
+width:80%;
+margin:auto;
+}
+.start
+{
+background-color:black;
+height:300px;
+color:white;
+}
+.best
+{
+	background-color:#1F2C3D;
+	height:500px;
+}
+.wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.best .best-fc
+{
+	display:flex;
+	background-color:#1F2C3D;
+	flex-direction:row;
+	height:300px;
+	justify-content:center;
+}
+
+.best .best-fc .back1{
+	width:50%;
+	height:400px;
+	margin-top:30px;
+	background-color:grey;
+}
+.provident
+{
+	background-color:white;
+	height:300px;
+}
+.provident .provident-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+		
+}
+.provident .provident-fc .logoA
+{
+	width:50%;
+	height:300px;
+	background-color:grey;
+	text-align:center;
+}
+.provident .provident-fc .logoB
+{
+	background-color:lightgreen;
+	width:50%;
+	height:300px;
+	text-align:center;
+}
+.wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.website
+{
+	background-color :white;
+	height:400px;
+	
+}
+.website .website-fc
+{
+	width:100%;
+	text-align:center;
+	height:250px;
+	background-color:lightblue;
+	padding:20px;
+	margin-top:50px;
+	justify-content:space-evenly;
+}
+.quotes
+{
+background-color:white;
+
+}
+.quotes .quotes-fc
+{
+display:flex;
+flex-wrap:wrap;
+flex-direction:row;
+justify-content:center;
+
+}
+.quotes .quotes-fc .head
+{
+width:100%;
+text-align:center;
+
+}
+.quotes .quotes-fc .boxa
+{
+background-color:lightblue;
+height:350px;
+width:25%;
+
+}
+.quotes .quotes-fc .boxb
+{
+background-color:steelblue;
+height:350px;
+width:25%;
+}
+.quotes .quotes-fc .boxc
+{
+background-color:pink;
+height:350px;
+width:25%;
+
+}
+.quotes .quotes-fc .boxd
+{
+background-color:lightskyblue;
+height:350px;
+width:25%;
+}
+.text
+{
+	background-color:navy;
+	height:500px;
+}
+.wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.text .text-fc
+{
+	display:flex;
+	justify-content:center;
+	flex-direction:row;
+		width:30%;
+	height:200px;
+	margin-top:120px;
+	background-color:black;
+}
+.info
+{
+	background-color:tomato;
+	height:400px;
+	
+}
+.wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.info .info-fc
+{
+	float:right;
+	display:flex;
+	background-color:plum;
+	flex-direction:row;
+	width:50%;
+	height:350px;
+			
+}
+
+.copywrite
+{
+background-color:pink;
+height:300px;
+color:white;
+}
